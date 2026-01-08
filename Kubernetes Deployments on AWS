@@ -1,0 +1,4 @@
+Created Deplyoment, Service, and Ingress
+Implemented auto scaling using HPA
+Secured secrets using Kubernets Secrets 
+Achieved zero downtime deplyoments
