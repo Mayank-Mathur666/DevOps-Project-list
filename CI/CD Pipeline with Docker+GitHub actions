@@ -1,0 +1,4 @@
+Containerized a Python application using Docker
+Created CI pipeline to run automated tests
+Created CD workflow to deplyo container to EC2/ECR
+Reduced manual deplyoments time from from 30 mins to 0
