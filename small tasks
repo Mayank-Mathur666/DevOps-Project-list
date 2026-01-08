@@ -1,0 +1,7 @@
+Built CI/CD Pipeline using GitHub actions/Jenkins to automate build & deplyoment.
+Containerized application using Docker and wrote Dockerfiles.
+Deplyoed apps to Kubernetes/EKS/minikube with Deplyoments, Services, ConfigMaps.
+Automated infrastructure Provisioning using Terraform.
+Configured monitoring dashboards using Grafana + Prmetheus.
+Managed Linux servers and automated tasks via shell scripts
+Created S3 static website and EC2 based deplyoments on AWS.
