@@ -1,0 +1,5 @@
+Containerized Python/Node apps using Docker and deplyoed them locally using docker and deplyoed them locally using docker compose.
+Deplyoed applications to k8s(minikube) using deployments, services, ConfigMpas, ans Secrets.
+Managed linux servers and automated tasks using bash scripting.
+Created S3 static websites and deplyoed flask apps on EC2 instances.
+Configured basic monitoring and alerts using cloudwatch.
